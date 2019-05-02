@@ -1,4 +1,4 @@
-## Use POI with Advanced Teplate using data from Package.json
+## POI with Advanced Teplate using data from Package.json
 
   Install [POI](https://poi.js.org/):
 
